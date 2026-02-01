@@ -40,7 +40,7 @@ This initiative facilitates online appointment requests for clients or patients 
 | -------| -------| -------|
 | Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@gmail.com` | 
 | Password: `123` |  Password: `123` |  Password: `123` |
-| ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/admin%20dashboard.PNG)| ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/Dr%20dashboard.PNG) |  ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/patient%20dashboard.PNG)  |
+| ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/admin%20dashboard.PNG)| ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/Dr%20dashboard.PNG) | ![](https://github.com/Omkarph1441/Dr-Appointment-system-/blob/main/edoc-doctor-appointment-system-main/Screenshot/patient%20dashboard.PNG)  |
 
  
   
