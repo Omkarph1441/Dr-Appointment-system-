@@ -7,7 +7,7 @@ This initiative facilitates online appointment requests for clients or patients 
 
 
 ## Features
-
+ 
 ### Admin
   
 - Admin can add doctors, edit doctors, delete doctors    
